@@ -1,0 +1,16 @@
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.exe
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.deps.json
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.runtimeconfig.json
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.runtimeconfig.dev.json
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.dll
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\ref\Orientacao.dll
+C:\c#2\novapasta\Orientacao\bin\Debug\net5.0\Orientacao.pdb
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.csproj.AssemblyReference.cache
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.AssemblyInfoInputs.cache
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.AssemblyInfo.cs
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.csproj.CoreCompileInputs.cache
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.dll
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\ref\Orientacao.dll
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.pdb
+C:\c#2\novapasta\Orientacao\obj\Debug\net5.0\Orientacao.genruntimeconfig.cache
